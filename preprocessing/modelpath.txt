@@ -1,0 +1,1 @@
+C:\Users\Nevena/gensim-data\glove-wiki-gigaword-100\glove-wiki-gigaword-100.gz
